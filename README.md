@@ -3,6 +3,7 @@ I'm a CS Student.
 
 ##### Skills: 
 - <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' height="16px"> C
+- - <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' height="16px"> C++
 - <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' height="16px"> Java
 - <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height="16px"> python
 - <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' height="16px"> C#
